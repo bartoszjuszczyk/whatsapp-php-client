@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PHP Version](https://img.shields.io/badge/php-%5E8.2-777bb4.svg)](https://www.php.net/)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/bartoszjuszczyk/whatsapp-php-client/tests.yml?branch=main)](https://github.com/bartoszjuszczyk/whatsapp-php-client/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/bartoszjuszczyk/whatsapp-php-client/tests.yml)](https://github.com/bartoszjuszczyk/whatsapp-php-client/actions)
 
 PHP library for the **WhatsApp API**.
 
