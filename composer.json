@@ -2,7 +2,6 @@
     "name": "juszczyk/whatsapp-php-client",
     "description": "WhatsApp API PHP Client Library",
     "type": "library",
-    "version": "0.1.0",
     "require": {
         "php": "^8.2",
         "ext-json": "*",
